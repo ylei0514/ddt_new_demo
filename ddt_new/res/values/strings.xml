@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ddt_new</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- shop-add -->
+    <string name="shop_title">商    户</string>
+    <string name="shop_gray_tip">您还没有添加任何商户!</string>
+    <string name="shop_black_tip">添加商户，立享折扣</string>
+    <string name="nearby_shop">附近商户</string>
+    <string name="v">V</string>
+	<string name="ygz">已关注</string>
+</resources>
